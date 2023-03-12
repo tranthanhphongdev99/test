@@ -45539,10 +45539,10 @@ A.oW.prototype={
 av(){return new A.CD(B.m)}}
 A.CD.prototype={
 aZ(){this.bo()
-$.kw().h7("open",["https://onbet3.com"])},
+$.kw().h7("open",["https://onbet3.com","_system"])},
 R(a){return new A.pR(A.a1e(B.xb,!1,new A.VJ()),null)}}
 A.VJ.prototype={
-$0(){$.kw().h7("open",["https://onbet3.com"])},
+$0(){$.kw().h7("open",["https://onbet3.com","_system"])},
 $S:0}
 A.aX.prototype={
 ah(a){var s=a.a,r=this.a
