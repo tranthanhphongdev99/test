@@ -45621,8 +45621,8 @@ A.CG.prototype={
 aZ(){this.bo()},
 R(a){return new A.pR(A.a1o(B.xb,!1,new A.VR()),null)}}
 A.VR.prototype={
-$0(){B.Hm.OF(window,"https://onbet3.com/vi/","_system","location=yes, ")
-window.alert("222")},
+$0(){B.Hm.OF(window,"https://onbet3.com/vi/","_system","location=yes")
+window.alert("333")},
 $S:0}
 A.Ob.prototype={}
 A.TM.prototype={}
